@@ -9,4 +9,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Estatísticas:
-[![GitHub Streak](https://streak-stats.demolab.com?user=samaralimaz&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samaralimaz&theme=radical)](https://git.io/streak-stats)

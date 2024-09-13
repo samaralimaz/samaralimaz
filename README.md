@@ -5,9 +5,6 @@
 
 Quando não estou escrevendo códigos, estou provavelmente jogando ou tomando café ☕.
 
-### Contatos:
-- [LinkedIn](www.linkedin.com/in/samara-lima-3ab58924b)
-
 ### Badges:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

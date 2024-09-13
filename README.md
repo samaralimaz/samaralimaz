@@ -11,4 +11,3 @@ Quando não estou escrevendo códigos, estou provavelmente jogando ou tomando ca
 
 ### Estatísticas:
 [![GitHub Streak](https://streak-stats.demolab.com?user=samaralimaz&theme=blueberry)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samaralimaz&show_icons=true&hide_title=true&count_private=true&hide=prs)

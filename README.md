@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Samara! ✨
 
-- Estudante de Engenharia de Computação
+- Estudante de Engenharia da Computação
 - Front-End Developer
 
 ### What I'm learning:

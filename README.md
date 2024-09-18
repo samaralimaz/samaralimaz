@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Contact me:
-[![LinkedIn]](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### Estatísticas:
 [![GitHub Streak](https://streak-stats.demolab.com?user=samaralimaz&theme=synthwave)](https://git.io/streak-stats)

@@ -12,4 +12,3 @@
 
 ### Estatísticas:
 [![GitHub Streak](https://streak-stats.demolab.com?user=samaralimaz&theme=synthwave)](https://git.io/streak-stats)
-https://www.linkedin.com/in/samara-lima-3ab58924b/

@@ -9,6 +9,3 @@
 
 ### Contact me:
 [![Contacts](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samara-lima-3ab58924b/)
-
-### Estatísticas:
-[![GitHub Streak](https://streak-stats.demolab.com?user=samaralimaz&theme=synthwave)](https://git.io/streak-stats)

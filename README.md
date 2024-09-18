@@ -1,4 +1,4 @@
-## Oi! Eu sou a Samara!
+## Oi! Eu sou a Samara! ✨
 
 - Estudante de Engenharia de Computação
 - Front-End Developer

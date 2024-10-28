@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Samara! ✨
 
 - Computer Engineering Student
-- Junior Front-End Developer
+- Front-End Developer
 
 ### What I'm learning:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
